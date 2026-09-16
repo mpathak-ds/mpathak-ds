@@ -2,7 +2,7 @@
 
 I'm mpathak, an embedded systems engineer focused on low-level systems programming, retro machines, kernels, device drivers, and hypervisors.
 
-I also cookies, occasionally :)
+I also like cookies, occasionally :)
 
 ### Facts
 
