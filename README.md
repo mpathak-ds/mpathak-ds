@@ -1,18 +1,18 @@
-## Hi there 👋
+**Retro enthusiast, I also do low-level systems engineering and especially kernel + virtualization engineering.**
 
-<!--
-**mpathak-ds/mpathak-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm mpathak, an embedded systems engineer focused on low-level systems programming, retro machines, kernels, device drivers, and hypervisors.
 
-Here are some ideas to get you started:
+I also cookies, occasionally :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Facts
+
+- Author of **RV-DOS**
+- CTO & VP of Software Engineering at *Driftless Software*
+
+### GitHub Stats
 
 [![mpathak's GitHub stats](https://github-stats-extended.vercel.app/api?username=mpathak-ds)](https://github.com/stats-organization/github-stats-extended)
+
+
+\
+*This README benefits from a service provided by https://github.com/stats-organization/github-stats-extended - thanks to the original author(s)*.
