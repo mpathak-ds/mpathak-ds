@@ -11,7 +11,9 @@ I also like cookies, occasionally :)
 
 ### GitHub Stats
 
-[![mpathak's GitHub stats](https://github-stats-extended.vercel.app/api?username=mpathak-ds)](https://github.com/stats-organization/github-stats-extended)
+[![mpathak's GitHub stats](https://github-stats-extended.vercel.app/api?username=mpathak-ds&show_icons=true&count_private=true&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats "My Github stats")
+[![mpathak's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs/?username=mpathak-ds&theme=slateorange&layout=compact)](https://github.com/anuraghazra/github-readme-stats "My Github stats")
+
 
 
 \
