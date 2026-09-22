@@ -2,13 +2,6 @@
 
 I'm mpathak, an embedded systems engineer focused on low-level systems programming, retro machines, kernels, device drivers, and hypervisors.
 
-I also like cookies, occasionally :)
-
-### Facts
-
-- Author of **RV-DOS**
-- CTO & VP of Software Engineering at *Driftless Software*
-
 ### GitHub Stats
 
 [![mpathak's GitHub stats](https://github-stats-extended.vercel.app/api/top-langs/?username=mpathak-ds&theme=slateorange&layout=compact)](https://github.com/anuraghazra/github-readme-stats "My Github stats")
